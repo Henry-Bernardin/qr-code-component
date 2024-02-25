@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 A  landing page with a QR code component 
 ### Screenshot
 
-./images/qr-code-component-screenshot.png
+![image info](./images/qr-code-component-screenshot.png)
 
 ### Links
 
