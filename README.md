@@ -35,3 +35,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ec75b84-094e-470a-ad70-75c389708f16/deploy-status)](https://app.netlify.com/sites/qr-component-henry/deploys)
