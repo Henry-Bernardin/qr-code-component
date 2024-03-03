@@ -25,7 +25,7 @@ A  landing page with a QR code component
 
 ### Links
 
-- Solution URL: [https://github.com/Henry-Bernardin/qr-code-component/tree/main]
+- Solution URL:  https://github.com/Henry-Bernardin/qr-code-component/tree/main
 - Live Site URL: https://qr-component-henry.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6ec75b84-094e-470a-ad70-75c389708f16/deploy-status)](https://app.netlify.com/sites/qr-component-henry/deploys)
